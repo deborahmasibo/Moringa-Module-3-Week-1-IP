@@ -2,10 +2,6 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![R][R-shield]]
-[![R Framework][Rf-shield]]
-[![RStudio][RStudio-shield]]
-
 
 
 
@@ -14,20 +10,22 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#project-description">Project Description</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Experimental Design</a></li>
+        <li><a href="#built-with">Success Criteria</a></li>
+        <li><a href="#built-with">Dataset</a></li>
+        <li><a href="#built-with">RPubs Publication</a></li>
       </ul>
     </li>
+    <li><a href="#built-with">Technologies Used</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -35,8 +33,8 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- PROJECT DESCRIPTION -->
+## Project Description
 
 ![alt text](https://davehortonads.com/wp-content/uploads/2020/01/targeted-advertising.jpg)
 
@@ -46,16 +44,45 @@ For this project a Kenyan entrepreneur had created an online cryptography course
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Experimental Design
 
+1. Data sourcing/loading 
+2. Data Understanding 
+3. Data Relevance
+4. External Dataset Validation
+5. Data Preparation
+6. Univariate Analysis
+7. Bivariate Analysis
+8. Multivariate Analysis
+9. Implementing the solution
+10. Challenging the solution
+11. Conclusion
+12. Follow up questions
 
-### Built With
+### Success Criteria
+
+Correct identification of fundamental characteristics of users who had previously clicked on the previous course ad.
+
+### Dataset
+
+The dataset avialed the client can be downloaded from this [link](http://bit.ly/IPAdvertisingData)
+
+### RPubs Publication
+
+The final project was publishes in [RPubs](http://rpubs.com/deborah_masibo/908054)
+
+<!-- TECHNOLOGIES USED -->
+
+## Technologies Used
 
 The frameworks/libraries/languages used toin the analysis project were: 
 
 **Languages**
+
 [R](https://www.rdocumentation.org/)
 
 **IDE**
+
 [RStudio](https://www.rstudio.com/)
 
 
@@ -64,13 +91,12 @@ The frameworks/libraries/languages used toin the analysis project were:
 
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 Steps to be takes to run the project locally.
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Download and install R base:
 * [Windows](https://cran.r-project.org/bin/windows/base/)
