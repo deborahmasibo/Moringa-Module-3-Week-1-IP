@@ -101,13 +101,13 @@ Steps to be takes to run the project locally.
 
 ### Installation
 
-1. Download and install R base:
+1. Download and install R base.
 * [Windows](https://cran.r-project.org/bin/windows/base/)
 * [Mac](https://cran.r-project.org/bin/macosx/)
 * [Linux (Debian, Fedora/Redhat, Ubuntu)](https://cran.r-project.org/)
 
-2. Download and install [RStudio](https://www.rstudio.com/products/rstudio/download/)
-3. Clone the repo
+2. Download and install [RStudio](https://www.rstudio.com/products/rstudio/download/).
+3. Clone the repository.
    ```sh
    git clone https://github.com/deborahmasibo/Moringa-Module-3-Week-1-IP.git
    ```
