@@ -1,10 +1,5 @@
 # TARGETED ADVERTISING
 
-<!-- PROJECT SHIELDS -->
-
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -12,13 +7,14 @@
     <li>
       <a href="#project-description">Project Description</a>
       <ul>
-        <li><a href="#built-with">Experimental Design</a></li>
-        <li><a href="#built-with">Success Criteria</a></li>
-        <li><a href="#built-with">Dataset</a></li>
-        <li><a href="#built-with">RPubs Publication</a></li>
+        <li><a href="#experimental-design">Experimental Design</a></li>
+        <li><a href="#sucess-criteria">Success Criteria</a></li>
+        <li><a href="#dataset">Dataset</a></li>
+        <li><a href="#rpubs-publication">RPubs Publication</a></li>
       </ul>
     </li>
-    <li><a href="#built-with">Technologies Used</a></li>
+    <li>
+      <a href="#technologies-used">Technologies Used</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -44,6 +40,7 @@ For this project a Kenyan entrepreneur had created an online cryptography course
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- EXPERIMENTAL DESIGN -->
 ### Experimental Design
 
 1. Data sourcing/loading 
@@ -59,17 +56,23 @@ For this project a Kenyan entrepreneur had created an online cryptography course
 11. Conclusion
 12. Follow up questions
 
+<!-- SUCCESS CRITERIA-->
 ### Success Criteria
 
 Correct identification of fundamental characteristics of users who had previously clicked on the previous course ad.
 
+<!-- DATASET -->
 ### Dataset
 
 The dataset avialed the client can be downloaded from this [link](http://bit.ly/IPAdvertisingData)
 
+<!-- RPUBS PUBLICATION -->
 ### RPubs Publication
 
 The final project was publishes in [RPubs](http://rpubs.com/deborah_masibo/908054)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <!-- TECHNOLOGIES USED -->
 
