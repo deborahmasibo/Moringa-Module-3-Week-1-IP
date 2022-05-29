@@ -69,7 +69,7 @@ The dataset avialed the client can be downloaded from this [link](http://bit.ly/
 <!-- RPUBS PUBLICATION -->
 ### RPubs Publication
 
-The final project was publishes in [RPubs](http://rpubs.com/deborah_masibo/908054)
+The final project was publishes in [RPubs](http://rpubs.com/deborah_masibo/908054).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
