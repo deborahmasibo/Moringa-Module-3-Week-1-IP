@@ -69,7 +69,7 @@ The dataset avialed the client can be downloaded from this [link](http://bit.ly/
 <!-- RPUBS PUBLICATION -->
 ### RPubs Publication
 
-The final project was publishes in [RPubs](http://rpubs.com/deborah_masibo/908054).
+The final project was published in [RPubs](http://rpubs.com/deborah_masibo/908054).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -107,11 +107,7 @@ Steps to be takes to run the project locally.
 * [Linux (Debian, Fedora/Redhat, Ubuntu)](https://cran.r-project.org/)
 
 2. Download and install [RStudio](https://www.rstudio.com/products/rstudio/download/).
-3. Clone the repository.
-   ```sh
-   git clone https://github.com/deborahmasibo/Moringa-Module-3-Week-1-IP.git
-   ```
-4. Access the Rmd file from RStudio.
+3. Refer to the [RPubs publication](http://rpubs.com/deborah_masibo/908054).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
