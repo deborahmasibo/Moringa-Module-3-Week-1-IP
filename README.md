@@ -107,12 +107,11 @@ Steps to be takes to run the project locally.
 * [Linux (Debian, Fedora/Redhat, Ubuntu)](https://cran.r-project.org/)
 
 2. Download and install [RStudio](https://www.rstudio.com/products/rstudio/download/)
- 
-3 Clone the repo
+3. Clone the repo
    ```sh
    git clone https://github.com/deborahmasibo/Moringa-Module-3-Week-1-IP.git
    ```
-3. Access the Rmd file from RStudio.
+4. Access the Rmd file from RStudio.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
