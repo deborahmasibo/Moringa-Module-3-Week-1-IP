@@ -151,10 +151,3 @@ List of helpful resources.
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Rf-shield](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-[RStudio-shield](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-[R-shield](	https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-
