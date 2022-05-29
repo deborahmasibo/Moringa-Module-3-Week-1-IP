@@ -36,7 +36,7 @@
 
 A targeted ad, in online marketing, is an advertisement that is directed towards an audience of a specific demograhic, and/or with certain traits, based on the product the advertiser is promoting. 
 
-For this project a Kenyan entrepreneur had created an online cryptography course and wanted to advertise it on her blog. She currently targets audiences originating from all continents in various countries. She had provieded data from a previous related course, whose ads were ran on the same blog. Insights on users likely to click on the ads was to be derived from the data, and will be used to improve the advertising strategy for the new course, to ensure a high ROI ia achived. 
+For this project a Kenyan entrepreneur had created an online cryptography course and wanted to advertise it on her blog. She currently targets audiences originating from all continents in various countries. She had provieded data from a previous related course, whose ads were ran on the same blog. Insights on users likely to click on the ads was to be derived from the data, and will be used to improve the advertising strategy for the new course, to ensure a high ROI is achived. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
