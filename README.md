@@ -64,7 +64,7 @@ Correct identification of fundamental characteristics of users who had previousl
 <!-- DATASET -->
 ### Dataset
 
-The dataset avialed the client can be downloaded from this [link](http://bit.ly/IPAdvertisingData)
+The dataset avialed by the client can be downloaded from this [link](http://bit.ly/IPAdvertisingData)
 
 <!-- RPUBS PUBLICATION -->
 ### RPubs Publication
@@ -78,7 +78,7 @@ The final project was published in [RPubs](http://rpubs.com/deborah_masibo/90805
 
 ## Technologies Used
 
-The frameworks/libraries/languages used toin the analysis project were: 
+The languages/IDEs used in the analysis project were: 
 
 **Languages**
 
@@ -117,7 +117,7 @@ Steps to be takes to run the project locally.
 ## Usage
 
 1. The project has been written entirely in R, for beginners, refer to the [docummentation](https://www.rdocumentation.org/) for a better understanding of the code.
-2. Details on the project requirements and experimental design can be found in the RPubs pulication.
+2. Details on the project context and analysis can be found in the RPubs pulication.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
