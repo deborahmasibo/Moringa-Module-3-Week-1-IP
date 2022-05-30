@@ -64,7 +64,7 @@ Correct identification of fundamental characteristics of users who had previousl
 <!-- DATASET -->
 ### Dataset
 
-The dataset avialed by the client can be downloaded from this [link](http://bit.ly/IPAdvertisingData)
+The dataset avialed by the client can be downloaded from this [link](http://bit.ly/IPAdvertisingData).
 
 <!-- RPUBS PUBLICATION -->
 ### RPubs Publication
