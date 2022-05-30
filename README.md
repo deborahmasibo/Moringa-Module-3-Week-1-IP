@@ -1,5 +1,10 @@
 # TARGETED ADVERTISING
 
+## Introduction
+
+The project described below was done with an aim of identifying users who were most likely to click on a course ad, displayed on the client's blog.
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
