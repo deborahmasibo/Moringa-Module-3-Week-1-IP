@@ -41,7 +41,7 @@ The project described below was done with an aim of identifying users who were m
 
 A targeted ad, in online marketing, is an advertisement that is directed towards an audience of a specific demograhic, and/or with certain traits, based on the product the advertiser is promoting. 
 
-For this project a Kenyan entrepreneur had created an online cryptography course and wanted to advertise it on her blog. She targeted audiences originating from all continents in various countries. She had provieded data from a previous related course, whose ads were ran on the same blog. Insights on users likely to click on the ads was to be derived from the data, and was to be used to improve the advertising strategy for the new course, to ensure a high ROI was achived. 
+For this project a Kenyan entrepreneur had created an online cryptography course and wanted to advertise it on her blog. She targeted audiences originating from all continents in various countries. She had provieded data from a previous related course, whose ads were ran on the same blog. Insights on users likely to click on the ads was to be derived from the data and highly accurate ad click prediction results was to be used to improve the advertising strategy for the new course, to ensure a high ROI was achived. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -56,15 +56,17 @@ For this project a Kenyan entrepreneur had created an online cryptography course
 6. Univariate Analysis
 7. Bivariate Analysis
 8. Multivariate Analysis
-9. Implementing the solution
-10. Challenging the solution
-11. Conclusion
-12. Follow up questions
+9. Modelling - Random Forest
+10. Implementing the solution
+11. Challenging the solution
+12. Conclusion
+13. Follow up questions
 
 <!-- SUCCESS CRITERIA-->
 ### Success Criteria
 
-Correct identification of fundamental characteristics of users who had previously clicked on the previous course ad.
+1. Correct identification of fundamental characteristics of users who had previously clicked on the previous course ad.
+2. Attainment of a classification model accuracy >= 90%, and F1, precision and recall scores >= 0.9.
 
 <!-- DATASET -->
 ### Dataset
@@ -74,7 +76,8 @@ The dataset avialed by the client can be downloaded from this [link](http://bit.
 <!-- RPUBS PUBLICATION -->
 ### RPubs Publication
 
-The final project was published in [RPubs](http://rpubs.com/deborah_masibo/908054).
+1. The initial analysis of the project was published in [Part 1](http://rpubs.com/deborah_masibo/908054).
+2. The final updated project, modelling included, was published in [Part 2]().
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
