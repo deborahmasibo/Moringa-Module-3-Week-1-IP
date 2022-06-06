@@ -77,7 +77,7 @@ The dataset avialed by the client can be downloaded from this [link](http://bit.
 ### RPubs Publication
 
 1. The initial analysis of the project was published in [Part 1](http://rpubs.com/deborah_masibo/908054).
-2. The final updated project, modelling included, was published in [Part 2]().
+2. The final updated project, modelling included, was published in [Part 2](http://rpubs.com/deborah_masibo/targeted_advertising_rf).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
